@@ -15,11 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-<<<<<<< Updated upstream
           Third obfuscation tried...2.0
-=======
           Third obfuscation tried....
->>>>>>> Stashed changes
         </a>
       </header>
     </div>
